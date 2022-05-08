@@ -15,3 +15,9 @@ Research in 3D Computer Vision
 - https://towardsdatascience.com/generating-synthetic-images-from-textual-description-using-gans-e5963bae0df4
 - https://curvenet.github.io/
 - https://github.com/tjddus9597/Proxy-Anchor-CVPR2020
+
+## 3D Object Classification
+
+- https://modelnet.cs.princeton.edu/
+- https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40
+- https://www.kaggle.com/balraj98/modelnet40-princeton-3d-object-dataset
