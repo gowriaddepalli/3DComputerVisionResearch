@@ -23,5 +23,6 @@ Research in 3D Computer Vision
 - https://www.kaggle.com/balraj98/modelnet40-princeton-3d-object-dataset
 - https://github.com/lijiaman/awesome-3d-human
 - https://github.com/openMVG/awesome_3DReconstruction_list
+- https://github.com/mint-lab/3dv_tutorial
 
 ## 3D GANS
