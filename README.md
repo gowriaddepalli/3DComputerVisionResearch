@@ -21,5 +21,6 @@ Research in 3D Computer Vision
 - https://modelnet.cs.princeton.edu/
 - https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40
 - https://www.kaggle.com/balraj98/modelnet40-princeton-3d-object-dataset
+- https://github.com/lijiaman/awesome-3d-human
 
 ## 3D GANS
