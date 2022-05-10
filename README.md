@@ -24,5 +24,6 @@ Research in 3D Computer Vision
 - https://github.com/lijiaman/awesome-3d-human
 - https://github.com/openMVG/awesome_3DReconstruction_list
 - https://github.com/mint-lab/3dv_tutorial
+- https://github.com/google-research-datasets/Objectron
 
 ## 3D GANS
