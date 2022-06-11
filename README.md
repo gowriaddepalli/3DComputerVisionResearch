@@ -21,6 +21,9 @@ Research in 3D Computer Vision
 - https://curvenet.github.io/
 - https://github.com/tjddus9597/Proxy-Anchor-CVPR2020
 
+## CGI
+- https://karltayloreducation.com/learn/3d-cgi/
+
 ## 3D Object Classification
 
 - https://modelnet.cs.princeton.edu/
@@ -31,4 +34,7 @@ Research in 3D Computer Vision
 - https://github.com/mint-lab/3dv_tutorial
 - https://github.com/google-research-datasets/Objectron
 
-## 3D GANS
+## 3D Modelling:
+
+- https://www.youtube.com/playlist?list=PL6QXpwvKhQIrSklNsQJqicjtxiOs6_NpY
+- https://scene-understanding.com/
